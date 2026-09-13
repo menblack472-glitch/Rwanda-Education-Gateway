@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Mail, Phone, Clock, Star, Users, BookOpen, DollarSign } from 'lucide-react';
+import { Menu, X, Star } from 'lucide-react';
 
 export default function EducationGateway() {
   const [menuOpen, setMenuOpen] = useState(false);
